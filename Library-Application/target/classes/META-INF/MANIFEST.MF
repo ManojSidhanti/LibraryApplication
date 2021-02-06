@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: admin
+Build-Jdk: 15.0.1
+Implementation-Title: first-web-project
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.in28Minutes
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/first-web-proj
+ ect/
+Created-By: Maven Integration for Eclipse
+
