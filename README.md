@@ -1,1 +1,1 @@
-# LibraryApplication
+A simple application to get all the books, get book by its Id, name and also add a new book to the repository with self links and relationship links to the book's author with added support for swagger documentation, in memory authentication etc
